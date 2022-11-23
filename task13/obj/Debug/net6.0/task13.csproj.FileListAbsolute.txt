@@ -1,0 +1,15 @@
+C:\Users\semio\Desktop\hw2Sem\task13\obj\Debug\net6.0\task13.csproj.AssemblyReference.cache
+C:\Users\semio\Desktop\hw2Sem\task13\obj\Debug\net6.0\task13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semio\Desktop\hw2Sem\task13\obj\Debug\net6.0\task13.AssemblyInfoInputs.cache
+C:\Users\semio\Desktop\hw2Sem\task13\obj\Debug\net6.0\task13.AssemblyInfo.cs
+C:\Users\semio\Desktop\hw2Sem\task13\obj\Debug\net6.0\task13.csproj.CoreCompileInputs.cache
+C:\Users\semio\Desktop\hw2Sem\task13\bin\Debug\net6.0\task13.exe
+C:\Users\semio\Desktop\hw2Sem\task13\bin\Debug\net6.0\task13.deps.json
+C:\Users\semio\Desktop\hw2Sem\task13\bin\Debug\net6.0\task13.runtimeconfig.json
+C:\Users\semio\Desktop\hw2Sem\task13\bin\Debug\net6.0\task13.dll
+C:\Users\semio\Desktop\hw2Sem\task13\bin\Debug\net6.0\task13.pdb
+C:\Users\semio\Desktop\hw2Sem\task13\obj\Debug\net6.0\task13.dll
+C:\Users\semio\Desktop\hw2Sem\task13\obj\Debug\net6.0\refint\task13.dll
+C:\Users\semio\Desktop\hw2Sem\task13\obj\Debug\net6.0\task13.pdb
+C:\Users\semio\Desktop\hw2Sem\task13\obj\Debug\net6.0\task13.genruntimeconfig.cache
+C:\Users\semio\Desktop\hw2Sem\task13\obj\Debug\net6.0\ref\task13.dll
