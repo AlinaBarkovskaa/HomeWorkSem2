@@ -14,7 +14,7 @@ Console.Clear();
 Console.WriteLine("Введите число: ");
 int number = Convert.ToInt32(Console.ReadLine());
 string numberText =  Convert.ToString(number);
-if( number < int.MaxValue && number > 99)
+if(number > 99)
    {
    Console.WriteLine("Третья цифра этого числа = " + numberText[2]);
    } else 
