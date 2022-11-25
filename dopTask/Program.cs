@@ -4,7 +4,7 @@ int number = Convert.ToInt32(Console.ReadLine());
 int max = number;
 int previousMax = 0;
 {
-    while (number != 0)
+    do
     {
         number = Convert.ToInt32(Console.ReadLine());
         if(max < number)
@@ -16,7 +16,8 @@ int previousMax = 0;
         {
             previousMax = number;
         }
-        Console.WriteLine( $"Предыдущее максимальное = {previousMax}");
-    }
+    } while (number != 0);
+    Console.WriteLine( $"Предыдущее максимальное = {previousMax}");
     Console.Write("end");
 }
+
