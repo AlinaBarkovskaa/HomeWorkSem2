@@ -1,0 +1,5 @@
+C:\Users\semio\Desktop\hw2Sem\obj\Debug\net6.0\hw2Sem.csproj.AssemblyReference.cache
+C:\Users\semio\Desktop\hw2Sem\obj\Debug\net6.0\hw2Sem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semio\Desktop\hw2Sem\obj\Debug\net6.0\hw2Sem.AssemblyInfoInputs.cache
+C:\Users\semio\Desktop\hw2Sem\obj\Debug\net6.0\hw2Sem.AssemblyInfo.cs
+C:\Users\semio\Desktop\hw2Sem\obj\Debug\net6.0\hw2Sem.csproj.CoreCompileInputs.cache
